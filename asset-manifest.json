@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-bratva/static/css/main.96b3bddd.css",
+    "main.js": "/admin-bratva/static/js/main.4f7aab14.js",
+    "index.html": "/admin-bratva/index.html",
+    "main.96b3bddd.css.map": "/admin-bratva/static/css/main.96b3bddd.css.map",
+    "main.4f7aab14.js.map": "/admin-bratva/static/js/main.4f7aab14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b3bddd.css",
+    "static/js/main.4f7aab14.js"
+  ]
+}
